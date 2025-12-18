@@ -1,3 +1,27 @@
+# Projetos de To-do List em Laravel
+
+Este repositório contém **dois projetos de listas de tarefas** desenvolvidos em **Laravel**, para fins acadêmicos.  
+Permite criar, listar, editar e excluir tarefas, cada projeto com sua própria estrutura e rotas.
+
+---
+
+## Pré-requisitos
+
+- PHP >= 8.0  
+- Composer  
+- SQLite (ou outro banco de dados que preferir)  
+
+---
+
+## Projeto 1 - `todo-app`
+
+### Instalação
+
+1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
